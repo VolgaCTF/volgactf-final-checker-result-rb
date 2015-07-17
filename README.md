@@ -18,3 +18,6 @@ or just add `gem 'themis-checker-result'` to your Gemfile and run `bundle`.
 
 ### Note
 `Themis::Checker::Result` is simply a [ruby-enum](https://github.com/dblock/ruby-enum) class.
+
+## License
+MIT @ [Alexander Pyatkin](https://github.com/aspyatkin)
