@@ -1,5 +1,5 @@
 # themis-checker-result
-A ruby gem that specifies operation status constants for [themis-checker-server](https://github.com/aspyatkin/themis-checker-server).
+A Ruby gem that specifies operation status constants for [themis-checker-server](https://github.com/aspyatkin/themis-checker-server).
 
 ## Installation
 ```sh
