@@ -1,4 +1,8 @@
 # themis-checker-result
+[![Latest Version](https://img.shields.io/gem/v/themis-checker-result.svg?style=flat-square)](https://rubygems.org/gems/themis-checker-result)
+[![License](https://img.shields.io/github/license/aspyatkin/themis-checker-result.svg?style=flat-square)](https://github.com/aspyatkin/themis-checker-result/blob/master/LICENSE)
+[![Dependencies status](https://img.shields.io/gemnasium/aspyatkin/themis-checker-result.svg?style=flat-square)](https://gemnasium.com/aspyatkin/themis-checker-result)
+[![Code Climate](https://img.shields.io/codeclimate/github/aspyatkin/themis-checker-result.svg?style=flat-square)](https://codeclimate.com/github/aspyatkin/themis-checker-result)  
 A Ruby gem that specifies operation status constants for [themis-checker-server](https://github.com/aspyatkin/themis-checker-server).
 
 ## Installation
